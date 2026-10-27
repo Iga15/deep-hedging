@@ -1,0 +1,21 @@
+{
+  "profile": "full",
+  "python": "3.11.14",
+  "tensorflow": "2.16.2",
+  "keras": "3.12.0",
+  "numpy": "1.26.4",
+  "pandas": "2.3.3",
+  "final_seed": 909,
+  "models": [
+    "dense_123",
+    "dense_456",
+    "dense_789",
+    "dense_1011",
+    "learned_band_123",
+    "learned_band_456",
+    "learned_band_789",
+    "learned_band_1011"
+  ],
+  "status": "complete",
+  "note": "Simulation study; all seeds reported. Quick profile is an integration check, not a research result."
+}

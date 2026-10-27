@@ -1,0 +1,48 @@
+{
+  "initial_price": 100.0,
+  "strike": 100.0,
+  "volatility": 0.2,
+  "annual_return": 0.0,
+  "days": 20,
+  "trading_days": 252,
+  "cost_rate": 0.001,
+  "risk_aversion": 1.0,
+  "train_size": 50000,
+  "validation_size": 10000,
+  "final_size": 30000,
+  "stress_size": 20000,
+  "batch_size": 1024,
+  "max_epochs": 100,
+  "patience": 10,
+  "min_improvement": 0.0001,
+  "learning_rate": 0.001,
+  "seeds": [
+    123,
+    456,
+    789,
+    1011
+  ],
+  "train_seed": 101,
+  "validation_seed": 202,
+  "final_seed": 909,
+  "stress_seed": 10001,
+  "bootstrap_seed": 11001,
+  "bootstrap_samples": 2000,
+  "band_candidates": [
+    0.0,
+    0.025,
+    0.05,
+    0.075,
+    0.1,
+    0.125,
+    0.15,
+    0.2,
+    0.3
+  ],
+  "stress_volatilities": [
+    0.1,
+    0.2,
+    0.3,
+    0.4
+  ]
+}

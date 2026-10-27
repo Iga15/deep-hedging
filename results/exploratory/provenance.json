@@ -1,0 +1,11 @@
+{
+  "source": "Original user-provided hedging.ipynb, recorded cell outputs",
+  "source_sha256": "779c915c1eb46cae82b964f1ba811f974e347d771d8b030831a44e2b32f17af1",
+  "source_cell_indices": {
+    "initial_test": 33,
+    "strong_baseline_confirmation": 47,
+    "learned_band_validation": 54
+  },
+  "precision": "Rounded values exactly as recorded in the source outputs",
+  "status": "Exploratory history; not regenerated final-run results"
+}

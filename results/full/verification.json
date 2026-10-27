@@ -1,0 +1,24 @@
+{
+  "source_sha256": {
+    "hedging.py": "b09a58a4d72823f983e76b76f9f4fc3f6f9b4b04f47a8ab13548ee8497b61ab1",
+    "run_experiment.py": "3fc912abfc2423f6c337999925abce184012c75d6cd994e2015f1a4a388e75d7",
+    "requirements.txt": "1938fa74908bf4224f6c07acab1497bd569b46b9ca07219ed439c35d90d1a568",
+    "tests/test_hedging.py": "8be915d56b73b57969022bd22d2917aa2f604e7a30eb7d2b35074d733f9c76c4",
+    "reporting.py": "b29a15f9bbaab90fc070afc49448d8e47142b2818c51b3da35baf64ef06e130a",
+    "export_report.py": "7920a208f428efc30e0da6d9dcff4b316825656ad9575b66ef250809e986ac52"
+  },
+  "verification": {
+    "financial_checks_passed": 7,
+    "quick_profile_completed": true,
+    "full_profile_completed": true,
+    "notebook": {
+      "method": "fresh_ipython_process",
+      "code_cells": 13,
+      "executed_code_cells": 13,
+      "error_outputs": 0,
+      "rich_outputs": 13
+    },
+    "original_notebook_unchanged": true
+  },
+  "note": "Notebook cells executed in order in a fresh IPython process; kernel socket binding is restricted by the sandbox."
+}

@@ -1,0 +1,8 @@
+strategy,risk,mean_pnl,std_pnl,pnl_5th_percentile
+Delta hedge,0.3517,-0.243,0.444,-1.003
+Original band,0.3402,-0.216,0.479,-1.025
+Boundary band,0.3182,-0.188,0.502,-1.003
+Neural original,0.3289,-0.208,0.490,-0.975
+Neural 456,0.3286,-0.208,0.490,-0.972
+Neural 789,0.3273,-0.209,0.485,-0.965
+Neural 1011,0.3281,-0.208,0.485,-0.978

@@ -1,0 +1,6 @@
+strategy,risk,mean_pnl,std_pnl,pnl_5th_percentile
+No hedge,11.6987,0.002,3.427,-7.495
+Hold 0.5 shares,2.5236,-0.122,1.710,-3.397
+Delta hedge,0.3419,-0.235,0.440,-0.987
+Selected band,0.3329,-0.211,0.475,-1.013
+Neural hedge,0.3200,-0.203,0.482,-0.955
